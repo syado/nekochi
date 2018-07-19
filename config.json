@@ -1,13 +1,13 @@
 {
-    "admin_id":"xxxxxxxx",
+    "admin_id": "xxxxxxxx",
     "exchange_num":[0,1,4,5,6],
     "SharedMemory":{
-        "key":"0x000",
-        "mode":"0o644",
-        "size":1000000
+        "key": "0x000",
+        "mode": "0o644",
+        "size": 1000000
     },
     "discord":{
-        "token":xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     },
     "yahoo": {
         "appid": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
