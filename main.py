@@ -143,7 +143,7 @@ async def on_message(message):
     print(message.content)
 
     cmd = []
-    f = open("./vcfile/cmd.csv", "r")
+    f = open("cmd.csv", "r")
     dataReader = csv.reader(f)
     for row in dataReader:
        cmd.append(row)
